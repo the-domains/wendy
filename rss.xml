@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[wendy]]></title>
-        <description><![CDATA[wendy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[World Wide Wanderer]]></title>
+        <description><![CDATA[World Wide Wanderer]]></description>
+        <link>https://thegrid.ai/wendy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 15:59:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 16:02:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wendy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39a65ecb-b349-4786-8985-57cedc7c9924.jpg">]]></description>
+            <link>https://thegrid.ai/wendy/6bdc659a-cf0e-43dd-a44b-6eafbe81a204/index.html</link>
+            <guid isPermaLink="false">6bdc659a-cf0e-43dd-a44b-6eafbe81a204</guid>
+            <pubDate>Mon, 23 May 2016 16:02:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hyde Park - I had only an hour to visit this park in London, so I was only able to have a taste of it. But it was lovely to see people enjoying the beach next to the pond, relaxing in the grass and taking in the most of this greenspace.</p>]]></description>
-            <link>undefinedhyde-park-i-had-only-an-hour-to-visit-this-park-in-london/index.html</link>
+            <link>https://thegrid.ai/wendy/hyde-park-i-had-only-an-hour-to-visit-this-park-in-london/index.html</link>
             <guid isPermaLink="false">78897be9-f64b-4239-a8ff-409786768a7d</guid>
             <pubDate>Mon, 23 May 2016 15:58:51 GMT</pubDate>
         </item>
