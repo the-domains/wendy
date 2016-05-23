@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[wendy]]></title>
+        <description><![CDATA[wendy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 May 2016 15:59:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hyde Park - I had only an hour to visit this park in London, so I was only able to have a taste of it. But it was lovely to see people enjoying the beach next to the pond, relaxing in the grass and taking in the most of this greenspace.</p>]]></description>
+            <link>undefinedhyde-park-i-had-only-an-hour-to-visit-this-park-in-london/index.html</link>
+            <guid isPermaLink="false">78897be9-f64b-4239-a8ff-409786768a7d</guid>
+            <pubDate>Mon, 23 May 2016 15:58:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
