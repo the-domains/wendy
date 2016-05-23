@@ -1,0 +1,29 @@
+name: wendy
+favicon: null
+layout_spectrum: 0.8529187159147114
+typography_spectrum: 0.15330256684683263
+title: World Wide Wanderer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.04965700744651258
+  lightness: 0.2695340251084417
+  saturation: 0.6621050299145281
+  rhythmicContrast: 0.6310703710187227
+purpose: []
